@@ -1,0 +1,10 @@
+Chizukeki Color Codes & Fonts:
+
+Black: #000000
+Yellow: #ffc32b
+White: #ffffff
+
+The Chizukeki text logo uses the following font:
+Font: FF Mark
+Type: Mark-Medium
+Website: http://www.ffmark.com/
